@@ -1,16 +1,16 @@
-## Running blender scripts
+## Shebang blender script
 
 Example
 
 ```python
-#!/bin/env blender-script
+#!/usr/bin/env blender-script
 print('Hello world')
 ```
 
 For console script
 
 ```python
-#!/bin/env blender-script
+#!/usr/bin/env blender-script
 # BACKGROUND
 print('Hello world')
 ```

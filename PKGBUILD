@@ -1,7 +1,7 @@
 pkgname='blender-script'
 pkgver=0.1.1
 pkgrel=1
-pkgdesc="Running blender scripts"
+pkgdesc="Shebang blender script"
 arch=(any)
 
 depends=(python blender)

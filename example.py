@@ -1,3 +1,3 @@
-#!/bin/env blender-script
+#!/usr/bin/env blender-script
 # BACKGROUND
 print('Hello world')
